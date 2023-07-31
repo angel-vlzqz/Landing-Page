@@ -1,1 +1,22 @@
+body,
+.header {
+  display: flex;
+  flex-direction: column;
+}
 
+.header
+{
+    background-color: #1F2937;
+    color: white;
+}
+
+.header-top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header p
+{
+    padding: 5px;
+}
