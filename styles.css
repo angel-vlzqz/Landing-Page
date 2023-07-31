@@ -2,26 +2,35 @@ body,
 .header {
   display: flex;
   flex-direction: column;
+  margin: 0;
 }
 
-.header
-{
-    background-color: #1F2937;
-    color: white;
+.header {
+  background-color: #1f2937;
+  color: white;
 }
 
 .header-top {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  padding: 15px 50px 50px 50px;
 }
 
-.header p
-{
-    padding: 5px;
+.header-top img {
+  height: 70px;
+  align-content: flex-start;
 }
 
-.header img
-{
-    height: 70px;
+.header-top a {
+  padding: 3px;
+  font-size: 18px;
+  color: #e5e7eb;
+  text-decoration: none;
+  align-self: center;
+  justify-self: center;
+}
+
+.header-link {
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
 }
