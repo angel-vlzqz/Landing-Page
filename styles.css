@@ -8,11 +8,11 @@ body,
 .header {
   background-color: #1f2937;
   color: white;
+  padding: 15px 50px 15px 50px;
 }
 
 .header-top {
   display: flex;
-  padding: 15px 50px 50px 50px;
 }
 
 .header-top img {
@@ -33,4 +33,24 @@ body,
   display: flex;
   flex: 1;
   justify-content: flex-end;
+}
+
+.header-content {
+  padding-top: 50px;
+  display: flex;
+}
+
+.header-content h1 {
+  color: #f9faf8;
+  font-size: 38px;
+  font-weight: 900;
+}
+
+.header-content img {
+  height: 200px;
+}
+
+.left p
+{
+    padding-right: 10px;
 }
