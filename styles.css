@@ -76,3 +76,7 @@ body,
 .card img {
   border: #1f2937;
 }
+
+.body img {
+  height: 50px;
+}
