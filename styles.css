@@ -67,3 +67,12 @@ body,
   color: #1f2937;
   font-weight: 800;
 }
+
+.card {
+  display: flex;
+  flex-direction: row;
+}
+
+.card img {
+  border: #1f2937;
+}
