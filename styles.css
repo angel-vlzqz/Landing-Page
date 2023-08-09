@@ -105,10 +105,20 @@ body,
   background-color: #e5e7eb;
 }
 
-.body2 p {
+.body2 p,
+.body2 i {
   text-align: center;
+  margin: 30px 200px 30px 200px;
 }
 
-.signature {
+i.quote {
+  font-size: 26px;
+  color: #6c6e72;
+}
+
+p.signature {
   justify-self: flex-end;
+  font-weight: 800;
+  color: #43464a;
+  margin: 0 0 30px 200px;
 }
