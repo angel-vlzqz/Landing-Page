@@ -70,13 +70,15 @@ body,
 
 .card {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 .card img {
-  border: #1f2937;
+  border-radius: 5px;;
+  width: 120px;
+  height: auto;
 }
 
-.body img {
-  height: 50px;
+.body p {
+  justify-content: center;
 }
