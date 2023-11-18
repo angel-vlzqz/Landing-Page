@@ -1,3 +1,3 @@
 # Landing-Page
 
-Following the css excercises from The Odin Project, this landing page is a direct result of the learnings from their free course
+This is a simple landing page showcasing basic css and flexbox skills. View by either forking or downloading the repo, and pasting the index.html file onto your browser
